@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javafx">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../CondaZip_ver 3.161/Libs/javafx" />
+      <root url="file://$PROJECT_DIR$/../CondaZip_ver 3.161/Libs/extra" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../CondaZip_ver 3.161/Libs/extra" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../CondaZip_ver 3.161/Libs/javafx" recursive="false" />
+  </library>
+</component>
